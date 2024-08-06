@@ -1,1 +1,1 @@
-pytorch/pytorch:2.4.0-cuda12.1-cudnn9-runtime
+ghcr.io/huggingface/text-embeddings-inference:86-1.5
