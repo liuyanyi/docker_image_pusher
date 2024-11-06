@@ -1,2 +1,2 @@
-langgenius/dify-api:0.10.1
-langgenius/dify-web:0.10.1
+mysql:8.0.39
+valkey/valkey:8
